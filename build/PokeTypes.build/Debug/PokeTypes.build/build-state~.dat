@@ -1,0 +1,240 @@
+TPokeTypes
+v7
+r0
+t324782976.813656
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Info.plist PokeTypes-Info.plist
+cCopyStringsFile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib
+cCpResource build/Debug/PokeTypes.app/Contents/Resources/poketypes.pl ../../../../../../../perl/poketypes.pl
+cProcessPCH /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch.gch PokeTypes_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/main.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypesAppDelegate.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/VGControl.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/../../../../../../../perl/poketypes.pl
+c000000004DAB8A2800000000000005EA
+t1303087656
+s1514
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/InfoPlist.strings
+c000000004DAB6B8C000000000000002D
+t1303079820
+s45
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib
+c000000004DAB8FD900000000000368EF
+t1303089113
+s223471
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.h
+c000000004DAB6B8C0000000000000140
+t1303079820
+s320
+i<Cocoa/Cocoa.h>
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m
+c000000004DAB6B8C0000000000000177
+t1303079820
+s375
+i"PokeTypesAppDelegate.h"
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypes_Prefix.pch
+c000000004DAB6B8C0000000000000095
+t1303079820
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.h
+c000000004DAB93FA00000000000001CD
+t1303090170
+s461
+i<Cocoa/Cocoa.h>
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m
+c000000004DAB93FA00000000000008A2
+t1303090170
+s2210
+i"VGControl.h"
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app
+t2
+s0
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Info.plist
+t1303090170
+s888
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/MacOS/PokeTypes
+t2
+s0
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/PkgInfo
+t1303090170
+s8
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1303090171
+s92
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/MainMenu.nib
+t1303090171
+s45088
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/poketypes.pl
+t1303090171
+s1514
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypes.LinkFileList
+c000000004DAB93FA00000000000001DA
+t1303090170
+s474
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypesAppDelegate.o
+t1303090176
+s21232
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/VGControl.o
+t2
+s0
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/main.o
+t1303090176
+s5064
+
+N/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m
+c000000004DAB6B8D00000000000000FE
+t1303079821
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch.gch
+t1303090176
+s54265616
+
+NPokeTypes-Info.plist
+c000000004DAB8F7B00000000000003E6
+t1303089019
+s998
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324782970#324782970#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypesAppDelegate.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324782976.423425
+e324782976.752334
+r1
+xCompileC
+xbuild/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypesAppDelegate.o
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m324782976#324782976#0(0"0(0#0#100"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m8617597664#1951"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-generated-files.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-own-target-headers.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-all-target-headers.hmap -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-project-headers.hmap -F/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/include -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources/x86_64 -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources -include /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch -c /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypesAppDelegate.m -o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/PokeTypesAppDelegate.o0#
+
+CCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/VGControl.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324782976.687299
+e324782976.813568
+r0
+xCompileC
+xbuild/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/VGControl.o
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:13: warning: cannot find interface declaration for 'VGControl'
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m: In function '-[VGControl doType:]':
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: 'attack1' undeclared (first use in this function)
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: (Each undeclared identifier is reported only once
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: for each function it appears in.)
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m: In function '-[VGControl doType2:]':
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:57: error: 'defend1' undeclared (first use in this function)
+lSLF07#2@97"Compile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m324782976#324782976#0(996"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:13: warning: cannot find interface declaration for 'VGControl'/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m: In function '-[VGControl doType:]':/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: 'attack1' undeclared (first use in this function)/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: (Each undeclared identifier is reported only once/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:15: error: for each function it appears in.)/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m: In function '-[VGControl doType2:]':/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m:57: error: 'defend1' undeclared (first use in this function)3(22@49"Cannot find interface declaration for 'VGControl'324782976#0#153#0(6@89"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m324782970#13#0#13#0#0"0(4@49"'attack1' undeclared (first use in this function)324782976#280#151#0(6@89"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m324782970#15#0#15#0#43"'*' undeclared (first use in this function)0(4@49"'defend1' undeclared (first use in this function)324782976#845#151#0(6@89"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m324782970#57#0#57#0#43"'*' undeclared (first use in this function)0(0#0#89"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m8615561184#1929"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-generated-files.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-own-target-headers.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-all-target-headers.hmap -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-project-headers.hmap -F/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/include -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources/x86_64 -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources -include /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch -c /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/VGControl.m -o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/VGControl.o1#
+
+CCompileC build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/main.o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324782976.422391
+e324782976.687193
+r1
+xCompileC
+xbuild/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/main.o
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m324782976#324782976#0(0"0(0#0#84"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m8619103680#1919"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-generated-files.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-own-target-headers.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-all-target-headers.hmap -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-project-headers.hmap -F/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/include -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources/x86_64 -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources -include /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch -c /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/main.m -o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib
+s324782970.824539
+e324782971.357122
+r1
+xCompileXIB
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib:602: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib324782970#324782971#0(191"/* com.apple.ibtool.document.notices *//Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib:602: note: This view is clipping its content.1(13@34"This view is clipping its content.324782971#18446744073709551615#0#0(6@104"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib324781913#602#0#602#0#0"0(0#0#104"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib8617556480#483"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s324782970.808953
+e324782971.142039
+r1
+xCopyStringsFile
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings324782970#324782971#0(0"0(0#0#109"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/English.lproj/InfoPlist.strings8618237472#445"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/PokeTypes.app/Contents/Resources/poketypes.pl ../../../../../../../perl/poketypes.pl
+s324782971.142131
+e324782971.162696
+r1
+xCpResource
+xbuild/Debug/PokeTypes.app/Contents/Resources/poketypes.pl
+x../../../../../../../perl/poketypes.pl
+lSLF07#2@43"Copy ../../../../../../../perl/poketypes.pl324782971#324782971#0(0"0(0#0#116"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/../../../../../../../perl/poketypes.pl8617521440#473"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/../../../../../../../perl/poketypes.pl /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Resources0#
+
+CLd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/MacOS/PokeTypes normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Info.plist PokeTypes-Info.plist
+s324782970.752823
+e324782970.808839
+r1
+xProcessInfoPlistFile
+x/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Info.plist
+xPokeTypes-Info.plist
+lSLF07#2@28"Process PokeTypes-Info.plist324782970#324782970#0(0"0(0#0#98"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypes-Info.plist27584981513797680#433"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    builtin-infoPlistUtility PokeTypes-Info.plist -genpkginfo /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch.gch PokeTypes_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324782971.357391
+e324782976.422241
+r1
+xProcessPCH
+x/var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch.gch
+xPokeTypes_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile PokeTypes_Prefix.pch324782971#324782976#0(0"0(0#0#98"/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypes_Prefix.pch8615664960#1784"    cd /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-generated-files.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-own-target-headers.hmap -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-all-target-headers.hmap -iquote /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/PokeTypes-project-headers.hmap -F/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/include -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources/x86_64 -I/Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/PokeTypes.build/Debug/PokeTypes.build/DerivedSources -c /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/PokeTypes_Prefix.pch -o /var/folders/ij/ijh4Dil4EvuDYrt396itrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PokeTypes_Prefix-bnheqnveknidyehdavexgfyrlced/PokeTypes_Prefix.pch.gch0#
+
+CTouch /Users/Ricky/Downloads/AndroidGlobalTime/src/com/android/globaltime/PokeTypes/build/Debug/PokeTypes.app
+r0
+
