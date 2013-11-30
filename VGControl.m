@@ -39,6 +39,9 @@
 	 NSInteger attackvariable1	= [attack1 indexOfSelectedItem];
      NSInteger defendvariable1	= [defend1 indexOfSelectedItem];
 	 NSInteger defendvariable2	= [defend2 indexOfSelectedItem];
+    
+    NSLog (@"chose 1:\n%i", attackvariable1);
+
 	
 	NSString *a=[NSString stringWithFormat:@"%i",attackvariable1];
 	NSString *d1=[NSString stringWithFormat:@"%i",defendvariable1];
